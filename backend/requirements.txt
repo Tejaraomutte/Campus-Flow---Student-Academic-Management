@@ -4,3 +4,4 @@ pymongo==4.13.2
 cassandra-driver==3.30.1
 PyJWT==2.10.1
 python-dotenv==1.1.1
+gunicorn
